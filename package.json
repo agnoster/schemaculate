@@ -1,0 +1,12 @@
+{
+  "author": "Isaac Wolkerstorfer <agnoster@gmail.com> (http://agnoster.net/)",
+  "name": "schemaculate",
+  "description": "Fast and tiny storage in the filesystem for data with a schema",
+  "version": "0.0.0",
+  "main": "./lib",
+  "engines": {
+    "node": ">0.4"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
